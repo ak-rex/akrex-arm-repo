@@ -743,10 +743,10 @@ Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-ker
 Priority: 0
 Section: utils
 Filename: pool/main/v/vault-os-kernel/vault-os-kernel_6.12.85-v8+_arm64.deb
-Size: 17413048
-SHA256: 29e1ebf0ccca6dfa7c76d72f303b18029d938b58eeafb2eaeedaf9db4a431ac3
-SHA1: 6aa88914817a109bd720d21fbdb51702625f540d
-MD5sum: 38a74ebee5b8222584e0a505913f05e0
+Size: 17412984
+SHA256: 8abf745424ff00c3a536bf4f4f8cf3ddaa4999db0205e9407d5cf1ce59a3aae4
+SHA1: 3a74ba95481518b09ea0ec520759c6ae5c5f0cf1
+MD5sum: 6cf8ec70bfaea579de4c4009d87bb1b5
 Description:  This kernel includes the patches for ClockworkPi CM3/CM4/CM5 devices.
 
 Package: wiringpi

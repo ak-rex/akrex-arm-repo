@@ -733,22 +733,6 @@ MD5sum: 4ef2f2aeff6cccecaa2a3451dad19ec1
 Description: usbimager
  USBImager is a really really simple GUI application that writes compressed disk images to USB drives and creates backups.
 
-Package: vault-os-kernel
-Version: 6.12.85-v8+
-Architecture: arm64
-Maintainer: vault-os-kernel <rex@linux.com>
-Provides: linux-image, linux-image-rpi-v8, linux-latest-modules-6.12.85+rpt-rpi-v8, linux-image-rpi-2712, linux-latest-modules-6.12.85+rpt-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel, clockworkpi-kernel, wireguard-modules (= 1.0.0)
-Conflicts: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-cm4-kernel, clockworkpi-kernel
-Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kerne, clockworkpi-cm4-kernel, clockworkpi-kernel
-Priority: 0
-Section: utils
-Filename: pool/main/v/vault-os-kernel/vault-os-kernel_6.12.85-v8+_arm64.deb
-Size: 17413436
-SHA256: 79dc5060bdd19a80541733668371172a214533c74298211fadc7ee2a5eb273a9
-SHA1: 0b9113e2632994d07d8be49b2d70efb65b880375
-MD5sum: d32874961a907aed101f9a9f111e1034
-Description:  This kernel includes the patches for ClockworkPi CM3/CM4/CM5 devices.
-
 Package: wiringpi
 Version: 3.5
 Architecture: arm64

@@ -1,15 +1,15 @@
 Package: carbon-computers-theme
-Version: 0.1
+Version: 0.11
 Maintainer: carbon-computers-theme <rex@linux.com>
 Architecture: all
 Replaces: rpd-plym-splash, raspberrypi-ui-mods, piwiz, rpd-common
 Priority: 0
 Section: utils
-Filename: pool/main/c/carbon-computers-theme/carbon-computers-theme_0.1_all.deb
-Size: 5040676
-SHA256: dd33d3040cd9e9c3de373a1a6fbf6763203ccea3be3b44eb633a28b9f68aade5
-SHA1: 3fe152ff0c7d208b110176128d022c87461bd0f9
-MD5sum: 375bea19f9937218cdec12404a2cfa07
+Filename: pool/main/c/carbon-computers-theme/carbon-computers-theme_0.11_all.deb
+Size: 5041000
+SHA256: 8075e9e0a80648e9be1bd9f0a3fd591422669d5e4537da8fd606281ca2cdac56
+SHA1: 36b7683e85edf6cb0892653ea0dd7fb77af64a06
+MD5sum: 95aa4806a1d9b2b4418bc3fee5d79c73
 Description: carbon-computers-theme
  carbon-computers-theme provides wallpapers and boot splash
 

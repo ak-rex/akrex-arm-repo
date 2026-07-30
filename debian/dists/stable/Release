@@ -1,5 +1,5 @@
-Architectures: arm64 all
-Codename: debian
+Architectures: arm64
+Codename: stable
 Components: main
 Date: Sun, 26 Jul 2026 20:58:38 +0000
 Description: ak-rex's software/kernel repository

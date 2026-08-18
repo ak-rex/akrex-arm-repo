@@ -562,10 +562,10 @@ Depends: libegl1, libgles2-mesa | libgles2, libpulse0, libgstreamer1.0-0,
 Priority: 0
 Section: utils
 Filename: pool/main/o/openterfaceqt/openterfaceqt_0.5.27.226_arm64.deb
-Size: 59717964
-SHA256: 983c20e1bfe79ef174193a7389c89cf0f984a2df02e4a42be780f2551100f795
-SHA1: be9572ad5aafa4bcacacc9f31cc901a566cb5c20
-MD5sum: 6e14f399c51e212777f0578a247f4697
+Size: 59714240
+SHA256: 1ec05b0d6e9a21728b3e6cc386dcdb49324ab4a28578a10cc3097fbc17a5f355
+SHA1: 9a3b289055c51f469f5479475479c8c98df9237e
+MD5sum: ebd3042a5d1babfcbcb8dbe4b56b508f
 Description: OpenterfaceQT KVM Linux Edition
  A Qt6‑based KVM frontend for video capture and playback.  This package
  relies on the distribution’s Qt6, FFmpeg, VA‑API/VDPAU and GStreamer libraries

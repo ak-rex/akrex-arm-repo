@@ -551,18 +551,26 @@ Description: meshtastic-mui
  This package installs and configures meshtasticd and meshtastic-mui for the uConsole with HackerGadgets RTL-SDR/LoRa/GPS/RTC/USBHUB All-In-One Extension Board.
 
 Package: openterfaceqt
-Version: 0.4.0.0
+Version: 0.5.27.226
 Architecture: arm64
-Depends: libxcb-cursor0, libva-dev, vainfo, va-driver-all
 Maintainer: TechxArtisan <info@techxartisan.com>
+Depends: libegl1, libgles2-mesa | libgles2, libpulse0, libgstreamer1.0-0,
+ libv4l-0, libxkbcommon0, libwayland-client0 | libwayland-client,
+ libxcb1, libx11-6, libqt6core6 (>= 6.4.0), libqt6svg6 | qt6-svg-dev,
+ libva2, libva-drm2, libva-x11-2, libvdpau1,
+ libgl1-mesa-glx | libgl1, libglx0, libglvnd0, zlib1g, libturbojpeg0 | libturbojpeg, pulseaudio
 Priority: 0
 Section: utils
-Filename: pool/main/o/openterfaceqt/openterfaceqt_0.4.0.0_arm64.deb
-Size: 38618988
-SHA256: 83d201a2b43a6006f2750ae63b833a9fa16cc7d819347111ffe76dc476468b80
-SHA1: d943c47b3a9424461b031800f8d2b07ddc816da8
-MD5sum: c02c29c57b7980f6d72e5b4c28d9a745
-Description: OpenterfaceQT Mini-KVM Linux Edition
+Filename: pool/main/o/openterfaceqt/openterfaceqt_0.5.27.226_arm64.deb
+Size: 59717244
+SHA256: b180db7a103f9aa2b3e36b4a13250cea01b8b5d0e820eac3e248ae8298c9761c
+SHA1: 4393b12ba6f68b8bd0cd0eec30d4058230affdae
+MD5sum: ffd8cc8ecbb0bde101f25242b17e10f7
+Description: OpenterfaceQT KVM Linux Edition
+ A Qt6‑based KVM frontend for video capture and playback.  This package
+ relies on the distribution’s Qt6, FFmpeg, VA‑API/VDPAU and GStreamer libraries
+ instead of shipping its own copies; the previous approach caused conflicts
+ when other programs accidentally picked up the bundled libraries.
 
 Package: pinctrl
 Version: 1.0

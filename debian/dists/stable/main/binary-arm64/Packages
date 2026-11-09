@@ -1,17 +1,17 @@
 Package: akrex-kernel
-Version: 7.1.4-v8-16k+
+Version: 7.3.1-v8-16k+
 Architecture: arm64
 Maintainer: akrex-kernel <rex@linux.com>
-Provides: linux-image, linux-image-rpi-v8, linux-latest-modules-7.1.4+rpt-rpi-v8, linux-image-rpi-2712, linux-latest-modules-7.1.4+rpt-rpi-2712, raspberrypi-kernel, akrex-kernel, akrex-cm4-kernel, wireguard-modules (= 1.0.0), clockworkpi-kernel
+Provides: linux-image, linux-image-rpi-v8, linux-latest-modules-7.3.1+rpt-rpi-v8, linux-image-rpi-2712, linux-latest-modules-7.3.1+rpt-rpi-2712, raspberrypi-kernel, akrex-kernel, akrex-cm4-kernel, wireguard-modules (= 1.0.0), clockworkpi-kernel
 Conflicts: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel
 Replaces: linux-image, linux-image-rpi-v8, linux-image-rpi-2712, raspberrypi-kernel, clockworkpi-kernel, clockworkpi-cm4-kernel
 Priority: 0
 Section: utils
-Filename: pool/main/a/akrex-kernel/akrex-kernel_7.1.4-v8-16k+_arm64.deb
-Size: 101439580
-SHA256: 9558ccf55c699731098071e4a47c3eff885d1da5ce71d2b49be0643e9305a333
-SHA1: 19d8ad99e9a9b9c59bbee8de150936da69622041
-MD5sum: 3df4f974f92ecd3da96dcd71a1649947
+Filename: pool/main/a/akrex-kernel/akrex-kernel_7.3.1-v8-16k+_arm64.deb
+Size: 103285308
+SHA256: 650559e421410b776b0bbdd6a59fe6dc6aa1a16025589b9113c4c5abd37df222
+SHA1: 8bb22183df546255bca385e3a1a01d9ca7ca7157
+MD5sum: 5bb28bc021fd36526ac6ea79635a56c8
 Description:  AK-Rex's kernel for devices with out of tree drivers.
 
 Package: carbon-computers-theme

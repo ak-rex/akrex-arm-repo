@@ -1,28 +1,28 @@
 Architectures: arm64 all
 Codename: debian
 Components: main
-Date: Mon, 09 Nov 2026 20:50:41 +0000
+Date: Mon, 09 Nov 2026 23:44:38 +0000
 Description: ak-rex's software/kernel repository
 Label: ak-rex Github
 Origin: ak-rex
 Suite: stable
 MD5Sum:
- c84a19651b455a57cb0aae45fde5b4bf              196 Release
- 407839d8387acf339510afc977198f12            40770 main/binary-arm64/Packages
- 9d8b08fb32599ad497f81d75c04425c8            14969 main/binary-arm64/Packages.gz
+ 6671188834986555246c8a9c91f2b1c5              196 Release
+ 6b11dbd723c862246a8e9f2045e62f1c            40758 main/binary-arm64/Packages
+ 8d3d5e064c5facda28195c4c416f31f6            14971 main/binary-arm64/Packages.gz
  d9ab9793dc7c53a890c6eea312745acf              163 main/binary-arm64/Release
 SHA1:
- c00358b407e7c979603be27fd07b94c6bd2eac2c              196 Release
- 10601005b18ca79c32a932c89b4c162803610c57            40770 main/binary-arm64/Packages
- f82a867fd6531525573ccaff9d52285d457f7096            14969 main/binary-arm64/Packages.gz
+ 9ae00999a05a5e0c73bc1bb3f99260c69e20b4f9              196 Release
+ 8df48a9c692eb15b6f428eda953d8f421a93624a            40758 main/binary-arm64/Packages
+ bd26ec8cb1f743211f87003c51481900bcdf8ab1            14971 main/binary-arm64/Packages.gz
  82b72e6b91366f4bc3839daea7616a63d75249fb              163 main/binary-arm64/Release
 SHA256:
- 96dbdb16c2312db7eb1dadbcf63d54bdc22692c39437a7f6c880c7d344487216              196 Release
- e390876766c0b91a03109f6b1216cd6ae5797b8eb97517dc8f0c98d2cdef0aea            40770 main/binary-arm64/Packages
- db6860c454f6c84e00021d5b6291a7f3eba0a006ee6c70425de42af754c4b0c6            14969 main/binary-arm64/Packages.gz
+ c3d20a3d237ee40945e9d06beaa6d5834b5124a3e642decb171b386168c90cbb              196 Release
+ ee49173ada272e0e9f5a0ad0b78f6f5a0aee1e04f570ced8bba0d38022104197            40758 main/binary-arm64/Packages
+ 79ac929c7a536689209d06512eb51c0f516af25c76e74c6137c973eb14ae11c8            14971 main/binary-arm64/Packages.gz
  b2faf27614db74b7be9d633506d5c5b080d324d727df47493766e27af6d32042              163 main/binary-arm64/Release
 SHA512:
- 2fa99941945eadf600f9d7096bfe377c55008ec18ae9bc0bf32e3f7cad1ff1a88958c1501e53d4a333c0e8c329f1cf6461df0421257dc4675870774259aee39c              196 Release
- df6b786e7456e0d50dfd2f0d761c41d5a8f278b2c41a25bcd5330a7736258da31e03f8c2b72f041f8b1d1544e57585c53e50c8d2e421fd7c88664772885e9aa0            40770 main/binary-arm64/Packages
- 25efe8d7b47860791686a422190897bb9ccbd250f5b8a0dbefa21ef3a8fe2641f5c937f5bd39165bdb55fb6553de90b1853aa6e1f85f79574326703293d05ad7            14969 main/binary-arm64/Packages.gz
+ a9f3c3c9c6e9c4504931ddcabe0080fbdfc6fe7a6a7f1d9d265c13523c4e4a6b9857cff739597dfab75916a2384dc8b69541a1595e31aadd56acfc537ff5aec2              196 Release
+ 3871bc4df08fea6c879f77a281c884b5032566fc1fc9bb73d2982de885daaebf1dd7a3e777993104163ffc5b4290a334533185f9b9d0c38ae529affe8cebdc92            40758 main/binary-arm64/Packages
+ 4cb3ff66185a60afde1cc341474bcd48f2e5e2911240af474805fd57df215b1b1d76378f5ef81de889283a02f88f3207dcb1c224122dbf0085045227c917865f            14971 main/binary-arm64/Packages.gz
  05bafe01c379f2617d479c121b4da1896ed2a007a1d01b8d69022bc2a7759d6db1f5981465f37ab6bfef53c6f4a854de3d21e6c97e5e2a8f54b6840b01009197              163 main/binary-arm64/Release

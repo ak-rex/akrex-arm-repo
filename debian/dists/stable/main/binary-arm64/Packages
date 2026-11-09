@@ -72,18 +72,17 @@ MD5sum: 55e9d3d9f35e60fbc632526ed246c611
 Description: Shortcut to exit M5-launcher to real terminal.
 
 Package: clockworkpi-audio
-Version: 1.1
+Version: 1.2
 Maintainer: clockworkpi-audio <rex@linux.com>
-Architecture: all
-Depends: python3
+Architecture: arm64
 Replaces: clockworkpi-audio-shutdown, clockworkpi-audio-patch
 Priority: 0
 Section: utils
-Filename: pool/main/c/clockworkpi-audio/clockworkpi-audio_1.1_all.deb
-Size: 12924
-SHA256: b436de6060864baa5edb577821b1ed1f82dd2ef9e38b6eccc90ebeaeec47dd06
-SHA1: a7f95fc4745f8cf084c5adf4c031a36147066672
-MD5sum: 617cfd5b403e7d6bcffb34978fa266a9
+Filename: pool/main/c/clockworkpi-audio/clockworkpi-audio_1.2_arm64.deb
+Size: 244188
+SHA256: 2d44baab786ffdf6e3fe9d3fba046659cec5388d0ab3fdbfdfdbe2c22ff64c7e
+SHA1: 770b523544f58dc36e87c93966b7b5a840a92857
+MD5sum: eddcac2a14125701a3ab513ab6c3d6ba
 Description: clockworkpi-audio
  clockworkpi-audio provides 3.5mm jack and speaker switching and stopping speaker pop on shutdown.
 
